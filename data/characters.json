@@ -1,0 +1,1201 @@
+[
+  {
+    "id": "himeko",
+    "gameId": "1003",
+    "name": "Himeko",
+    "slug": "himeko",
+    "rarity": 5,
+    "path": "Erudition",
+    "internalPathId": "Mage",
+    "element": "Fire",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "welt",
+    "gameId": "1004",
+    "name": "Welt",
+    "slug": "welt",
+    "rarity": 5,
+    "path": "Nihility",
+    "internalPathId": "Warlock",
+    "element": "Imaginary",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "kafka",
+    "gameId": "1005",
+    "name": "Kafka",
+    "slug": "kafka",
+    "rarity": 5,
+    "path": "Nihility",
+    "internalPathId": "Warlock",
+    "element": "Thunder",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "silver-wolf",
+    "gameId": "1006",
+    "name": "Silver Wolf",
+    "slug": "silver-wolf",
+    "rarity": 5,
+    "path": "Nihility",
+    "internalPathId": "Warlock",
+    "element": "Quantum",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "bronya",
+    "gameId": "1101",
+    "name": "Bronya",
+    "slug": "bronya",
+    "rarity": 5,
+    "path": "Harmony",
+    "internalPathId": "Shaman",
+    "element": "Wind",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "seele",
+    "gameId": "1102",
+    "name": "Seele",
+    "slug": "seele",
+    "rarity": 5,
+    "path": "The Hunt",
+    "internalPathId": "Rogue",
+    "element": "Quantum",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "gepard",
+    "gameId": "1104",
+    "name": "Gepard",
+    "slug": "gepard",
+    "rarity": 5,
+    "path": "Preservation",
+    "internalPathId": "Knight",
+    "element": "Ice",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "clara",
+    "gameId": "1107",
+    "name": "Clara",
+    "slug": "clara",
+    "rarity": 5,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Physical",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "topaz-numby",
+    "gameId": "1112",
+    "name": "Topaz & Numby",
+    "slug": "topaz-numby",
+    "rarity": 5,
+    "path": "The Hunt",
+    "internalPathId": "Rogue",
+    "element": "Fire",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "luocha",
+    "gameId": "1203",
+    "name": "Luocha",
+    "slug": "luocha",
+    "rarity": 5,
+    "path": "Abundance",
+    "internalPathId": "Priest",
+    "element": "Imaginary",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "jing-yuan",
+    "gameId": "1204",
+    "name": "Jing Yuan",
+    "slug": "jing-yuan",
+    "rarity": 5,
+    "path": "Erudition",
+    "internalPathId": "Mage",
+    "element": "Thunder",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "blade",
+    "gameId": "1205",
+    "name": "Blade",
+    "slug": "blade",
+    "rarity": 5,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Wind",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "fu-xuan",
+    "gameId": "1208",
+    "name": "Fu Xuan",
+    "slug": "fu-xuan",
+    "rarity": 5,
+    "path": "Preservation",
+    "internalPathId": "Knight",
+    "element": "Quantum",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "yanqing",
+    "gameId": "1209",
+    "name": "Yanqing",
+    "slug": "yanqing",
+    "rarity": 5,
+    "path": "The Hunt",
+    "internalPathId": "Rogue",
+    "element": "Ice",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "bailu",
+    "gameId": "1211",
+    "name": "Bailu",
+    "slug": "bailu",
+    "rarity": 5,
+    "path": "Abundance",
+    "internalPathId": "Priest",
+    "element": "Thunder",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "jingliu",
+    "gameId": "1212",
+    "name": "Jingliu",
+    "slug": "jingliu",
+    "rarity": 5,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Ice",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "dan-heng-imbibitor-lunae",
+    "gameId": "1213",
+    "name": "Dan Heng • Imbibitor Lunae",
+    "slug": "dan-heng-imbibitor-lunae",
+    "rarity": 5,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Imaginary",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "huohuo",
+    "gameId": "1217",
+    "name": "Huohuo",
+    "slug": "huohuo",
+    "rarity": 5,
+    "path": "Abundance",
+    "internalPathId": "Priest",
+    "element": "Wind",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "argenti",
+    "gameId": "1302",
+    "name": "Argenti",
+    "slug": "argenti",
+    "rarity": 5,
+    "path": "Erudition",
+    "internalPathId": "Mage",
+    "element": "Physical",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "ruan-mei",
+    "gameId": "1303",
+    "name": "Ruan Mei",
+    "slug": "ruan-mei",
+    "rarity": 5,
+    "path": "Harmony",
+    "internalPathId": "Shaman",
+    "element": "Ice",
+    "tiers": {
+      "overall": "S+",
+      "memory-of-chaos": "S+",
+      "pure-fiction": "S+",
+      "apocalyptic-shadow": "S+"
+    },
+    "oneLiner": "The most universal support in the game. Speed, Break Efficiency, and PEN for everyone.",
+    "why": {
+      "overall": "If you have a team, Ruan Mei probably makes it better. Currently the #1 support.",
+      "memory-of-chaos": "S-Tier. Enables 0-cycles by delaying enemy recovery.",
+      "pure-fiction": "S-Tier. Break efficiency helps clear waves faster.",
+      "apocalyptic-shadow": "S-Tier. Essential for breaking tanky bosses."
+    },
+    "bestTeams": [
+      {
+        "name": "Universal Buffer",
+        "core": [
+          "Ruan Mei",
+          "Any DPS",
+          "Any Sustain"
+        ],
+        "note": "Fits anywhere."
+      }
+    ],
+    "alternatives": [
+      "robin",
+      "sparkle"
+    ],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "aventurine",
+    "gameId": "1304",
+    "name": "Aventurine",
+    "slug": "aventurine",
+    "rarity": 5,
+    "path": "Preservation",
+    "internalPathId": "Knight",
+    "element": "Imaginary",
+    "tiers": {
+      "overall": "S",
+      "memory-of-chaos": "S",
+      "pure-fiction": "S",
+      "apocalyptic-shadow": "S"
+    },
+    "oneLiner": "Invincible shielder who deals damage and buffs crit. The gold standard for sustain.",
+    "why": {
+      "overall": "Provides unturnable shields while contributing significant team damage.",
+      "memory-of-chaos": "S-Tier. Keeps the team alive against heavy hitters while debuffing for Acheron/Ratio.",
+      "pure-fiction": "S-Tier. His follow-up attacks trigger frequently in AoE scenarios.",
+      "apocalyptic-shadow": "S-Tier. Reliable sustain against aggressive bosses."
+    },
+    "bestTeams": [
+      {
+        "name": "FUA Sustain",
+        "core": [
+          "Aventurine",
+          "Dr. Ratio",
+          "Topaz",
+          "Robin"
+        ],
+        "note": "Fuels the Follow-Up Attack engine."
+      }
+    ],
+    "alternatives": [
+      "fu-xuan",
+      "luocha"
+    ],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "dr-ratio",
+    "gameId": "1305",
+    "name": "Dr. Ratio",
+    "slug": "dr-ratio",
+    "rarity": 5,
+    "path": "The Hunt",
+    "internalPathId": "Rogue",
+    "element": "Imaginary",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "sparkle",
+    "gameId": "1306",
+    "name": "Sparkle",
+    "slug": "sparkle",
+    "rarity": 5,
+    "path": "Harmony",
+    "internalPathId": "Shaman",
+    "element": "Quantum",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "black-swan",
+    "gameId": "1307",
+    "name": "Black Swan",
+    "slug": "black-swan",
+    "rarity": 5,
+    "path": "Nihility",
+    "internalPathId": "Warlock",
+    "element": "Wind",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "acheron",
+    "gameId": "1308",
+    "name": "Acheron",
+    "slug": "acheron",
+    "rarity": 5,
+    "path": "Nihility",
+    "internalPathId": "Warlock",
+    "element": "Thunder",
+    "tiers": {
+      "overall": "S",
+      "memory-of-chaos": "S",
+      "pure-fiction": "S",
+      "apocalyptic-shadow": "S"
+    },
+    "oneLiner": "The definition of brute force; ignores weakness types to obliterate everything.",
+    "why": {
+      "overall": "Acheron sits at the pinnacle of DPS due to her unique Ultimate mechanic that bypasses weakness types.",
+      "memory-of-chaos": "S-Tier. Consistent 0-cycle potential regardless of enemy lineup.",
+      "pure-fiction": "S-Tier. Her Ultimate hits all enemies, making her surprisingly effective even in AoE modes.",
+      "apocalyptic-shadow": "S-Tier. Massive toughness damage helps break boss bars quickly."
+    },
+    "bestTeams": [
+      {
+        "name": "Premium Nihility",
+        "core": [
+          "Acheron",
+          "Jiaoqiu",
+          "Pela",
+          "Aventurine"
+        ],
+        "note": "Jiaoqiu stacks debuffs faster than any other unity, doubling Acheron's Ultimate frequency."
+      }
+    ],
+    "alternatives": [
+      "kafka",
+      "jingliu"
+    ],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "robin",
+    "gameId": "1309",
+    "name": "Robin",
+    "slug": "robin",
+    "rarity": 5,
+    "path": "Harmony",
+    "internalPathId": "Shaman",
+    "element": "Physical",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "firefly",
+    "gameId": "1310",
+    "name": "Firefly",
+    "slug": "firefly",
+    "rarity": 5,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Fire",
+    "tiers": {
+      "overall": "S",
+      "memory-of-chaos": "S",
+      "pure-fiction": "A",
+      "apocalyptic-shadow": "S"
+    },
+    "oneLiner": "Super Break enabler who turns the toughness bar into a health bar deletion button.",
+    "why": {
+      "overall": "Transforms the Break meta. If an enemy has a toughness bar, Firefly can delete them.",
+      "memory-of-chaos": "S-Tier. Relentless speed and weakness implant make her universal.",
+      "pure-fiction": "A-Tier. Strong, but sometimes lacks the screen-wipe frequency of pure Erudition units.",
+      "apocalyptic-shadow": "S-Tier. The best boss killer in the game currently."
+    },
+    "bestTeams": [
+      {
+        "name": "Super Break Core",
+        "core": [
+          "Firefly",
+          "Harmony Trailblazer",
+          "Ruan Mei",
+          "Gallagher"
+        ],
+        "note": "The standard Super Break team. HTB and Ruan Mei are non-negotiable."
+      }
+    ],
+    "alternatives": [
+      "boothill",
+      "xueyi"
+    ],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "jade",
+    "gameId": "1314",
+    "name": "Jade",
+    "slug": "jade",
+    "rarity": 5,
+    "path": "Erudition",
+    "internalPathId": "Mage",
+    "element": "Quantum",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "boothill",
+    "gameId": "1315",
+    "name": "Boothill",
+    "slug": "boothill",
+    "rarity": 5,
+    "path": "The Hunt",
+    "internalPathId": "Rogue",
+    "element": "Physical",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "nickname",
+    "gameId": "8001",
+    "name": "{NICKNAME}",
+    "slug": "nickname",
+    "rarity": 5,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Physical",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "nickname",
+    "gameId": "8002",
+    "name": "{NICKNAME}",
+    "slug": "nickname",
+    "rarity": 5,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Physical",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "nickname",
+    "gameId": "8003",
+    "name": "{NICKNAME}",
+    "slug": "nickname",
+    "rarity": 5,
+    "path": "Preservation",
+    "internalPathId": "Knight",
+    "element": "Fire",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "nickname",
+    "gameId": "8004",
+    "name": "{NICKNAME}",
+    "slug": "nickname",
+    "rarity": 5,
+    "path": "Preservation",
+    "internalPathId": "Knight",
+    "element": "Fire",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "nickname",
+    "gameId": "8005",
+    "name": "{NICKNAME}",
+    "slug": "nickname",
+    "rarity": 5,
+    "path": "Harmony",
+    "internalPathId": "Shaman",
+    "element": "Imaginary",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "nickname",
+    "gameId": "8006",
+    "name": "{NICKNAME}",
+    "slug": "nickname",
+    "rarity": 5,
+    "path": "Harmony",
+    "internalPathId": "Shaman",
+    "element": "Imaginary",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "march-7th",
+    "gameId": "1001",
+    "name": "March 7th",
+    "slug": "march-7th",
+    "rarity": 4,
+    "path": "Preservation",
+    "internalPathId": "Knight",
+    "element": "Ice",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "dan-heng",
+    "gameId": "1002",
+    "name": "Dan Heng",
+    "slug": "dan-heng",
+    "rarity": 4,
+    "path": "The Hunt",
+    "internalPathId": "Rogue",
+    "element": "Wind",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "arlan",
+    "gameId": "1008",
+    "name": "Arlan",
+    "slug": "arlan",
+    "rarity": 4,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Thunder",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "asta",
+    "gameId": "1009",
+    "name": "Asta",
+    "slug": "asta",
+    "rarity": 4,
+    "path": "Harmony",
+    "internalPathId": "Shaman",
+    "element": "Fire",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "herta",
+    "gameId": "1013",
+    "name": "Herta",
+    "slug": "herta",
+    "rarity": 4,
+    "path": "Erudition",
+    "internalPathId": "Mage",
+    "element": "Ice",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "serval",
+    "gameId": "1103",
+    "name": "Serval",
+    "slug": "serval",
+    "rarity": 4,
+    "path": "Erudition",
+    "internalPathId": "Mage",
+    "element": "Thunder",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "natasha",
+    "gameId": "1105",
+    "name": "Natasha",
+    "slug": "natasha",
+    "rarity": 4,
+    "path": "Abundance",
+    "internalPathId": "Priest",
+    "element": "Physical",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "pela",
+    "gameId": "1106",
+    "name": "Pela",
+    "slug": "pela",
+    "rarity": 4,
+    "path": "Nihility",
+    "internalPathId": "Warlock",
+    "element": "Ice",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "sampo",
+    "gameId": "1108",
+    "name": "Sampo",
+    "slug": "sampo",
+    "rarity": 4,
+    "path": "Nihility",
+    "internalPathId": "Warlock",
+    "element": "Wind",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "hook",
+    "gameId": "1109",
+    "name": "Hook",
+    "slug": "hook",
+    "rarity": 4,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Fire",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "lynx",
+    "gameId": "1110",
+    "name": "Lynx",
+    "slug": "lynx",
+    "rarity": 4,
+    "path": "Abundance",
+    "internalPathId": "Priest",
+    "element": "Quantum",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "luka",
+    "gameId": "1111",
+    "name": "Luka",
+    "slug": "luka",
+    "rarity": 4,
+    "path": "Nihility",
+    "internalPathId": "Warlock",
+    "element": "Physical",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "qingque",
+    "gameId": "1201",
+    "name": "Qingque",
+    "slug": "qingque",
+    "rarity": 4,
+    "path": "Erudition",
+    "internalPathId": "Mage",
+    "element": "Quantum",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "tingyun",
+    "gameId": "1202",
+    "name": "Tingyun",
+    "slug": "tingyun",
+    "rarity": 4,
+    "path": "Harmony",
+    "internalPathId": "Shaman",
+    "element": "Thunder",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "sushang",
+    "gameId": "1206",
+    "name": "Sushang",
+    "slug": "sushang",
+    "rarity": 4,
+    "path": "The Hunt",
+    "internalPathId": "Rogue",
+    "element": "Physical",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "yukong",
+    "gameId": "1207",
+    "name": "Yukong",
+    "slug": "yukong",
+    "rarity": 4,
+    "path": "Harmony",
+    "internalPathId": "Shaman",
+    "element": "Imaginary",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "guinaifen",
+    "gameId": "1210",
+    "name": "Guinaifen",
+    "slug": "guinaifen",
+    "rarity": 4,
+    "path": "Nihility",
+    "internalPathId": "Warlock",
+    "element": "Fire",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "xueyi",
+    "gameId": "1214",
+    "name": "Xueyi",
+    "slug": "xueyi",
+    "rarity": 4,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Quantum",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "hanya",
+    "gameId": "1215",
+    "name": "Hanya",
+    "slug": "hanya",
+    "rarity": 4,
+    "path": "Harmony",
+    "internalPathId": "Shaman",
+    "element": "Physical",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "gallagher",
+    "gameId": "1301",
+    "name": "Gallagher",
+    "slug": "gallagher",
+    "rarity": 4,
+    "path": "Abundance",
+    "internalPathId": "Priest",
+    "element": "Fire",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "misha",
+    "gameId": "1312",
+    "name": "Misha",
+    "slug": "misha",
+    "rarity": 4,
+    "path": "Destruction",
+    "internalPathId": "Warrior",
+    "element": "Ice",
+    "tiers": {
+      "overall": "N/A"
+    },
+    "oneLiner": "Pending analysis.",
+    "why": {
+      "overall": "No analysis available yet."
+    },
+    "bestTeams": [],
+    "alternatives": [],
+    "lastUpdated": "2025-12-25"
+  }
+]
