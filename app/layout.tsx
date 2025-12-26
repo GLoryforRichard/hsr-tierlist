@@ -24,9 +24,8 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  // In a real app, this ID should come from env vars.
-  // For MVP, we can leave a placeholder or env var hook.
-  const gaId = process.env.NEXT_PUBLIC_GA_ID || '';
+  // GA4 Measurement ID provided by user
+  const gaId = process.env.NEXT_PUBLIC_GA_ID || 'G-Q6Z0JN85QD';
 
   return (
     <html lang="en">
